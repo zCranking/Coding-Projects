@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+#apps {
+    background: linear-gradient(#F49D37 0%, #F45B69 100%);
+    padding-bottom: 1%;
+    width: 100%;
+    height: 100%;
+}
+.line {
+    border-top: 20px;
+    border-radius: 5px;
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+}
+#games {
+    background: linear-gradient(#F22B29 0%, #43aa8b 100%);
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+#github {
+    background: linear-gradient(#43aa8b 0%, #05204A 100%);
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width: 100%;
+}
+.h1 {
+    font-size: 70px;
+    color: #9195dc;
+    font-family: 'Nerko One', cursive;
+}
+.ptag {
+    font-size: 35px;
+    color: #F45B69;
+    font-family: 'Nerko One', cursive;
+}
+.images {
+    transition: transform.2s;
+}
+.images:hover {
+    transform: scale(0.9);
+}
+#myCarousel {
+    background: linear-gradient(#F49D37 0%, #F45B69 100%);
+}
+span {
+    margin-top: 300px;
+}
